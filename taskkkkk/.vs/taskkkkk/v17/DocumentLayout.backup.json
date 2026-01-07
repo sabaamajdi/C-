@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sabaa\\OneDrive\\Desktop\\c####\\C-\\taskkkkk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2CDD76-CBE3-40FB-8DED-21C49EAC3373}|taskkkkk\\taskkkkk.csproj|c:\\users\\sabaa\\onedrive\\desktop\\c####\\c-\\taskkkkk\\taskkkkk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2CDD76-CBE3-40FB-8DED-21C49EAC3373}|taskkkkk\\taskkkkk.csproj|solutionrelative:taskkkkk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sabaa\\OneDrive\\Desktop\\c####\\C-\\taskkkkk\\taskkkkk\\Program.cs",
+              "RelativeDocumentMoniker": "taskkkkk\\Program.cs",
+              "ToolTip": "C:\\Users\\Sabaa\\OneDrive\\Desktop\\c####\\C-\\taskkkkk\\taskkkkk\\Program.cs",
+              "RelativeToolTip": "taskkkkk\\Program.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAEsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T22:29:26.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
